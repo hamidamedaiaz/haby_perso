@@ -1,0 +1,29 @@
+# Build artifacts
+target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cache
+.heavyclient-cache/
+
+# Logs
+*.log
+
+# Maven
+dependency-reduced-pom.xml
+
+# Generated sources (will be regenerated)
+**/generated-sources/
